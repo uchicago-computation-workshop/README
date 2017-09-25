@@ -18,7 +18,7 @@ Each week of the computational workshop, we will add a new repository for that w
 
 # MACSS Participation and Open Source Debate
 
-#### *Current MACSS students are expected to contribute to the [Issues](./issues) page for that week's computation workshop*
+#### *Current MACSS students are expected to contribute to the **Issues** page for that week's computation workshop*. 
 
 **Each week, *before the presentation***, you will do the following:
 
@@ -40,7 +40,7 @@ At the same time, do not be afraid to ask questions for clarification about a co
 ### Mechanics of Posting Questions
 
 On the Github Issues page for a repository, you will each start a new "issue." This is accomplished by the following steps:
-1. Click the "Issues" tab on Github or Follow the Direct Link in the README / Emailed Workshop Invitation
+1. Click the ["Issues" tab on Github](https://help.github.com/articles/creating-an-issue/) or Follow the Direct Link in the README / Emailed Workshop Invitation. 
 2. Click the "New Issue" button
 3. Type a Title for Your Issue (Question)
 4. Type a detailed question. An example can be found here.
