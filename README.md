@@ -18,12 +18,12 @@ Each week of the computational workshop, we will add a new repository for that w
 
 # MACSS Participation and Open Source Debate
 
-##### *Current MACSS students are expected to contribute to the [Issues](./issues) page for that week's computation workshop*
+#### *Current MACSS students are expected to contribute to the [Issues](./issues) page for that week's computation workshop*
 
 **Each week, *before the presentation***, you will do the following:
 
-* Provide a thoughtful comment to the speaker regarding the content of the paper
-* React to other students questions
+* Provide a thoughtful comment or question in response to the speaker's paper
+* React and comment on *at least* **5** other students' comments
 
 ### The students questions with the most :thumbsup: reactions will have the opportunity to pose those questions to the speaker during the workshop. 
 
@@ -33,9 +33,9 @@ This question could be methodological, theoretical, or substantive. For example,
 
 Beyond critical observations or pointing to methodological, logical, or theoretical gaps, your comment might instead take the form of general questions regarding the scope of their data analysis, their strategy in compiling data or methodological toolkits, or what they feel would be new avenues of research. 
 
-**Note that many possible questions you might ask may already be answered** in the text, particularly if the work is published or near that stage. To this end, please read the papers carefully so that you may pose a question that recognizes the existing answers or gaps in the paper and builds on that body of work. Please do not ask questions or make pointed comments that reveal you have not read the paper, as your question is directly answered in the text. 
+**Note there are many possible questions you might ask but may already be answered** in the text, particularly if the work is published or near that stage. To this end, please read the papers carefully so that you may pose a question that recognizes the existing answers or gaps in the paper and builds on that body of work. Please do not ask questions or make pointed comments that reveal you have not actually read the paper closely, which will be apparent if your question is directly answered in the text. 
 
-At the same time, do not be afraid to ask questions for clarification about a complex argument, method, or point of confusion in the text. Experts may at times make too many leaps in their argument or discussion of a subject that will make sense to other experts but elude the otherwise intelligent. Asking for clarification can be useful since it may reveal a part of the paper, the author should better attend to. If the paper confuses you, it may fluster a journal reviewer, and to avoid this possibility, the author will likely thank you for drawing their attention to the matter.
+At the same time, do not be afraid to ask questions for clarification about a complex argument, method, or point of confusion in the text. Experts may at times make too many leaps in their argument or discussion of a subject that may make sense to other experts but elude the otherwise intelligent. Asking for clarification can be useful since it may reveal a part of the paper, to which the author should better attend. If the paper confuses you, it may fluster a journal reviewer, and to avoid this possibility, the author will likely thank you for drawing their attention to the matter.
 
 ### Mechanics of Posting Questions
 
@@ -44,7 +44,7 @@ On the Github Issues page for a repository, you will each start a new "issue." T
 2. Click the "New Issue" button
 3. Type a Title for Your Issue (Question)
 4. Type a detailed question. An example can be found here.
-- *Note: Issues are written using Markdown. A tutorial can be found here.
+- *Note: Issues are written using [`Markdown`. A tutorial can be found here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - *Markdown* will allow you to easily make different header levels, text formatting, lists, and `code snippets` or `code blocks` so that you can `foo_bar` computational questions with ease:
 
 ```python
@@ -52,7 +52,7 @@ def hello_world(name):
     print("Hello, {}. It is a beautiful world.".format(name))
 ```
 
-5. You can link images of web content, graphs, or other papers for citations. E.g. see [Mausolf 2017](https://authors.elsevier.com/a/1Vgqk,17RoDdFv).
+5. You can link images of web content, graphs, or other papers for citations. For example, you could borrow a graph from a paper and cite the author [Mausolf 2017](https://authors.elsevier.com/a/1Vgqk,17RoDdFv):
 
 ![](http://ars.els-cdn.com/content/image/1-s2.0-S0049089X16306937-gr6.jpg)
 
@@ -60,11 +60,11 @@ def hello_world(name):
 
 ### Reacting to Questions
 
-Beyond posing questions, students will be required to review and post reactions to each other's questions. Students whose questions garner the most :thumbsup: reactions, will have the opportunity to pose their question to the speaker during the workshop. 
+Beyond posing questions, students will be required to review and post reactions to each other's questions. Each week students should react to and comment on the questions for at least 5 other students. Students whose questions garner the most :thumbsup: reactions, will have the opportunity to pose their question to the speaker during the workshop.
 
 *Note:* You can add more than one reaction to a question, such as :thumbsup: or :heart:, however, we will only rank the number of reactions using the :thumbsup: reaction. For a full list of Github emoji's see this page: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908). 
 
-Examples: An example issue and reaction set is available under my [example speaker repository](). Besides the use for discussion in this workshop, issues pages are also used to raise questions, requests, or problems in code used in professional development, by companies such as [Spotify](https://github.com/spotify/luigi/issues/1622) or [Facebook](https://github.com/facebook/flow/issues/396).
+Examples: An example issue and reaction set is available under my [example speaker repository](https://github.com/uchicago-computation-workshop/joshua_mausolf/issues). Besides the use for discussion in this workshop, issues pages are also used to raise questions, requests, or problems in code used in professional development, by companies such as [Spotify](https://github.com/spotify/luigi/issues/1622) or [Facebook](https://github.com/facebook/flow/issues/396).
 
 
 
