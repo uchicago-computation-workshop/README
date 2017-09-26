@@ -6,7 +6,7 @@ This weekly workshop highlights the work of those pioneering data science analyt
 
 **The 2017-2018 Computation Workshop meets each Thursday from *11 to 12:20 p.m.* in Saieh 247**. All interested faculty and graduate students are welcome. Our Computation MA students are expected to attend.
 
-## [Fall 2017 Workshop Schedule](https://htmlpreview.github.io/?https://raw.githubusercontent.com/uchicago-computation-workshop/README/master/Fall_2017_Schedule/fall_2017_schedule.html)
+* ## [Fall 2017 Workshop Schedule](https://htmlpreview.github.io/?https://raw.githubusercontent.com/uchicago-computation-workshop/README/master/Fall_2017_Schedule/fall_2017_schedule.html)
 
 # Workshop Organizational Structure on Github
 
