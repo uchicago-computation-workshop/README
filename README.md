@@ -6,7 +6,7 @@ This weekly workshop highlights the work of those pioneering data science analyt
 
 **The 2018-2019 Computational Social Science Workshop meets each Thursday from *11 to 12:20 p.m.* in [Kent 120](https://maps.uchicago.edu/?location=Kent+Chemical+Laboratory)**. All interested faculty and graduate students are welcome. Our Computation MA students are expected to attend.
 
-* ## [Fall 2018 Workshop Schedule](https://htmlpreview.github.io/?https://raw.githubusercontent.com/uchicago-computation-workshop/README/master/Fall_2018_Schedule/fall_2018_schedule.html)
+* ## [Fall 2018 Workshop Schedule](https://htmlpreview.github.io/?https://raw.githubusercontent.com/uchicago-computation-workshop/README/Fall_2018_Schedule/fall_2018_schedule.html)
 
 # Workshop Organizational Structure on Github
 
