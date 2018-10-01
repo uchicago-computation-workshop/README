@@ -92,9 +92,10 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 <br>
 
 <h3 class=pfblock-header4> October 11th </h3>
-<h3 class=pfblock-header4> TBD </h3>
+<h3 class=pfblock-header4><a href="https://macss.uchicago.edu/directory/marc-berman"> Marc Berman </a> </h3>
+<h6 class=pfblock-header4>Faculty Director for the Masters in Computational Social Science Program; Assistant Professor in the Department of Psychology</h6>
+<h5 class=pfblock-header4>The University of Chicago</h5>
 <br>
-
 
 <h3 class=pfblock-header4> October 18th </h3>
 <h3 class=pfblock-header4><a href="https://zizi.people.uic.edu/Site/ziziweb.html"> Zizi Papacharissi </a> </h3>
