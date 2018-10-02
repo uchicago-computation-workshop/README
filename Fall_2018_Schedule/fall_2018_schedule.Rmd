@@ -113,7 +113,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <h3 class=pfblock-header4>November 8th </h3>
 <h3 class=pfblock-header4><a href="https://www.ci.uchicago.edu/profile/165"> Charlie Catlett </a> </h3>
-<h6 class=pfblock-header4>Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory, Senior Fellow at the University of Chicago's Harris School of Public Policy</h6>
+<h6 class=pfblock-header4>Director of Urban Center for Computation and Data, Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory</h6>
 <br>
 
 
