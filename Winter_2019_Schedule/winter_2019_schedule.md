@@ -60,11 +60,6 @@ output:
 <h5 class=pfblock-header4>The University of Chicago</h5>
 <br>
 
-<h3 class=pfblock-header4> March 7th </h3>
-<h3 class=pfblock-header4><a href="https://macss.uchicago.edu/"> MACSS Student Conference </a> </h3>
-<h5 class=pfblock-header4>The University of Chicago</h5>
-<br>
-
 <br>
 
 ---
