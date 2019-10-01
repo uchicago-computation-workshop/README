@@ -4,9 +4,9 @@
 
 This weekly workshop highlights the work of those pioneering data science analytical techniques and social science and computation methods while bringing together graduate students, post-docs, and faculty all working at the nexus of computation and big, social science questions. The workshop also allows regular participants to share works in progress for feedback, fosters robust dialogue between young scholars in these emerging fields, and showcases local scholars leading pedagogical seminars on new papers or methods.
 
-**The 2018-2019 Computational Social Science Workshop meets each Thursday from *11 to 12:20 p.m.* in [Kent 120](https://maps.uchicago.edu/?location=Kent+Chemical+Laboratory)**. All interested faculty and graduate students are welcome. Our Computation MA students are expected to attend.
+**The 2019-2020 Computational Social Science Workshop meets each Thursday from *11 to 12:20 p.m.* in [Hinds Laboratory 101](https://maps.uchicago.edu/location/hinds-laboratory/)**. All interested faculty and graduate students are welcome. Our Computation MA students are expected to attend.
 
-* ## [Spring 2019 Workshop Schedule](https://htmlpreview.github.io/?https://github.com/uchicago-computation-workshop/README/blob/master/Spring_2019_Schedule/spring_2019_schedule.html)
+* ## Check back soon for the Fall 2019 Schedule!
 
 # Workshop Organizational Structure on Github
 
@@ -21,10 +21,19 @@ Each week of the Computational Social Science Workshop, we will add a new reposi
 
 #### *Current MACSS students are expected to contribute to the **Issues** page for that week's computation workshop*.
 
-**Each week, *before the presentation***, you will do the following:
+**Before the Fall Welcome Mixer**, each of you will:
+* Think about whom you'd like to see at our workshop, and suggest: 
+    1. At least one possible speaker from UChicago, 
+    2. At least one possible speaker from *outside* UChicago,
+    3. Optionally, one or more organizations (company, nonprofit, or government agency) 
+* Upvote at least 5 other persons suggestions.
+
+**For the rest of the year, *before each presentation***, you will do the following:
 
 * Provide a thoughtful comment or question in response to the speaker's paper
 * React and comment on *at least* **5** other students' comments
+
+
 
 ### The students questions with the most :thumbsup: reactions will have the opportunity to pose those questions to the speaker during the workshop.
 
