@@ -21,15 +21,7 @@ Each week of the Computational Social Science Workshop, we will add a new reposi
 
 #### *Current MACSS students are expected to contribute to the **Issues** page for that week's computation workshop*.
 
-**Before the Fall Welcome Mixer**, each of you will:
-* Think about whom you'd like to see at our workshop, and suggest: 
-    1. At least one possible speaker from UChicago, 
-    2. At least one possible speaker from *outside* UChicago,
-    3. Optionally, one or more organizations (company, nonprofit, or government agency) 
-* Upvote at least 5 other persons suggestions.
-
-**For the rest of the year, *before each presentation***, you will do the following:
-
+**Each week, *before the presentation***, you will do the following:
 * Provide a thoughtful comment or question in response to the speaker's paper
 * React and comment on *at least* **5** other students' comments
 
