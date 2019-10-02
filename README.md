@@ -6,7 +6,7 @@ This weekly workshop highlights the work of those pioneering data science analyt
 
 **The 2019-2020 Computational Social Science Workshop meets each Thursday from *11 to 12:20 p.m.* in [Hinds Laboratory 101](https://maps.uchicago.edu/location/hinds-laboratory/)**. All interested faculty and graduate students are welcome. Our Computation MA students are expected to attend.
 
-* ## Check back soon for the Fall 2019 Schedule!
+* ## [Fall 2019 Workshop Schedule](https://github.com/uchicago-computation-workshop/README/blob/master/Fall_2019_Schedule/Fall2019Schedule.md)
 
 # Workshop Organizational Structure on Github
 
