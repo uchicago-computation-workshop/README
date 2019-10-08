@@ -10,12 +10,12 @@ This weekly workshop highlights the work of those pioneering data science analyt
 
 # Workshop Organizational Structure on Github
 
-Each week of the Computational Social Science Workshop, we will add a new repository for that week's speaker, paper, and discussion board contents. These repositories will each be hosted on the [Github page for the Computational Social Science Workshop](http://github.com/uchicago-computation-workshop). Each repository will have several recurring elements:
+Each week of the Computational Social Science Workshop, we will add a new folder in the current quarter's repository. This folder will contain information on that week's speaker and relevant papers. We will also open an issue which will contain that week's discussions. The quarterly repositories are hosted on the [Github page for the Computational Social Science Workshop](http://github.com/uchicago-computation-workshop), and you can find the current one [here](https://github.com/uchicago-computation-workshop/Fall2019). Each repository will have several recurring elements:
 
 * Published or working version of the paper for the workshop talk
 * Presentation from the workshop (if available post presentation)
 * A README regarding the details of the talk, speaker, and location
-* An Issues page, where MACSS students are expected to participate
+* Link to the target issue on the Issues page, where MACSS students are expected to participate
 
 # MACSS Participation and Open Source Debate
 
@@ -23,8 +23,7 @@ Each week of the Computational Social Science Workshop, we will add a new reposi
 
 **Each week, *before the presentation***, you will do the following:
 * Provide a thoughtful comment or question in response to the speaker's paper
-* React and comment on *at least* **5** other students' comments
-
+* React (comment optional) on *at least* **5** other students' comments
 
 
 ### The students questions with the most :thumbsup: reactions will have the opportunity to pose those questions to the speaker during the workshop.
@@ -41,11 +40,9 @@ At the same time, do not be afraid to ask questions for clarification about a co
 
 ### Mechanics of Posting Questions
 
-On the Github Issues page for a repository, you will each start a new "issue." This is accomplished by the following steps:
-1. Click the ["Issues" tab on Github](https://help.github.com/articles/creating-an-issue/) or Follow the Direct Link in the README / Emailed Workshop Invitation.
-2. Click the "New Issue" button
-3. Type a Title for Your Issue (Question)
-4. Type a detailed question. An example can be found here.
+On the Github Issues page for the quarterly repository, you will find an issue for each week's workshop that has been opened by one of the preceptors.
+1. Click on the week's issue. Your response will be a comment on the said issue. (scroll down until you see a text-box)
+2. Type a detailed question. An example can be found here.
 - *Note: Issues are written using [`Markdown`. A tutorial can be found here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - *Markdown* will allow you to easily make different header levels, text formatting, lists, and `code snippets` or `code blocks` so that you can `foo_bar` computational questions with ease:
 
@@ -54,16 +51,16 @@ def hello_world(name):
     print("Hello, {}. It is a beautiful world.".format(name))
 ```
 
-5. You can link images of web content, graphs, or other papers for citations. For example, you could borrow a graph from a paper and cite the author [Mausolf 2017](https://authors.elsevier.com/a/1Vgqk,17RoDdFv):
+3. You can link images of web content, graphs, or other papers for citations. For example, you could borrow a graph from a paper and cite the author [Mausolf 2017](https://authors.elsevier.com/a/1Vgqk,17RoDdFv):
 
 ![](http://ars.els-cdn.com/content/image/1-s2.0-S0049089X16306937-gr6.jpg)
 
-6. If you would like, you can reference another student's question by tagging their issue number. Place `#X` in your post, where `X` is the number (1, 2, 3,...,N) associated with the post you would like to tag.
+4. If you would like, you can reference another student's question. If you click on the 'three dots' in the top-right, you will see the 'quote reply' option, which will add the text as a quote in your own comment. Make sure to also include the name of the user whom you're reponsing to, e.g. via '@username' notation.
+
 
 ### Reacting to Questions
 
-Beyond posing questions, students will be required to review and post reactions to each other's questions. Each week students should react to and comment on the questions for at least 5 other students. Students whose questions garner the most :thumbsup: reactions, will have the opportunity to pose their question to the speaker during the workshop.
+Beyond posing questions, students will be required to review and post reactions to each other's questions. Each week students should react to questions for at least 5 other students (you can also comment, if you wish). Students whose questions garner the most :thumbsup: reactions, will have the opportunity to pose their question to the speaker during the workshop.
 
 *Note:* You can add more than one reaction to a question, such as :thumbsup: or :heart:, however, we will only rank the number of reactions using the :thumbsup: reaction. For a full list of Github emoji's see this page: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908).
 
-Examples: An example issue and reaction set is available under my [example speaker repository](https://github.com/uchicago-computation-workshop/joshua_mausolf/issues). Besides the use for discussion in this workshop, issues pages are also used to raise questions, requests, or problems in code used in professional development, by companies such as [Spotify](https://github.com/spotify/luigi/issues/1622) or [Facebook](https://github.com/facebook/flow/issues/396).
